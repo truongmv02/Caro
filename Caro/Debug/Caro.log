@@ -1,0 +1,19 @@
+﻿  Button.cpp
+  CaroChess.cpp
+  Game.cpp
+  GameStateMachine.cpp
+  InputHandler.cpp
+D:\VTCA\Semester2\Game\Cpp\Asm\Caro\InputHandler.cpp(51,33): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+D:\VTCA\Semester2\Game\Cpp\Asm\Caro\InputHandler.cpp(52,33): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+  Main.cpp
+  MenuState.cpp
+  PlayState.cpp
+  SDLGameObject.cpp
+D:\VTCA\Semester2\Game\Cpp\Asm\Caro\SDLGameObject.cpp(11,136): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VTCA\Semester2\Game\Cpp\Asm\Caro\SDLGameObject.cpp(11,120): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VTCA\Semester2\Game\Cpp\Asm\Caro\SDLGameObject.cpp(24,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VTCA\Semester2\Game\Cpp\Asm\Caro\SDLGameObject.cpp(24,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SoundManager.cpp
+  TextureManager.cpp
+  Generating Code...
+  Caro.vcxproj -> D:\VTCA\Semester2\Game\Cpp\Asm\Caro\Debug\Caro.exe
